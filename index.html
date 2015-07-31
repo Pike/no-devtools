@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aurora without DevTools</title>
+        <link href="before.json" type="application/json" rel="exhibit-data"/>
+        <link href="after.json" type="application/json" rel="exhibit-data"/>
+        <style type="text/css">
+            .number-cell {
+                text-align: right;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Aurora without DevTools</h1>
+        <div data-ex-role="collection" data-ex-item-types="Build"></div>
+        <div data-ex-role="controlPanel" data-ex-show-bookmark="false"></div>
+        <div data-ex-formats="number { decimal-digits: 2 }"></div>
+        <div data-ex-role="view" data-ex-view-class="Tabular"
+      data-ex-show-toolbox="false"
+      data-ex-collectionID="builds"
+      data-ex-cell-spacing="0"
+      data-ex-row-styler="format_row"
+      data-ex-formats="number { decimal-digits: 0 }"
+      data-ex-column-labels="Locale, %, %, Ratio, Errors, Err-Dev, Missing, Warnings,
+       Obsolete, Unchanged, UC-Dev"
+      data-ex-columns=".locale, .completion, .after_completion, 100 * .after_completion / .completion , .errors,.after_errors, .missing,
+       .warnings, .obsolete, .unchanged, .after_unchanged"
+      data-ex-cellSpacing="0">
+        </div>
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/exhibit/exhibit-api.js?persist=false"></script>
+        <script>
+            function format_row(ID, database, row, i) {
+                Array.forEach(row.cells, function(td, i) {
+                    td.classList.add(i ? 'number-cell' : 'locale');
+                });
+            }
+        </script>
+    </body>
+</html>
