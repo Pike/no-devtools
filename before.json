@@ -1,0 +1,2889 @@
+{
+  "items": [
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1781,
+      "type": "Progress",
+      "label": "fx_aurora/sq"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1581,
+      "type": "Progress",
+      "label": "fx_aurora/pt-BR"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1661,
+      "type": "Progress",
+      "label": "fx_aurora/ru"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -181,
+      "type": "Progress",
+      "label": "fx_aurora/bg"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -401,
+      "type": "Progress",
+      "label": "fx_aurora/de"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -881,
+      "type": "Progress",
+      "label": "fx_aurora/hi-IN"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1621,
+      "type": "Progress",
+      "label": "fx_aurora/rm"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -641,
+      "type": "Progress",
+      "label": "fx_aurora/eu"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -221,
+      "type": "Progress",
+      "label": "fx_aurora/bn-IN"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1141,
+      "type": "Progress",
+      "label": "fx_aurora/km"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1401,
+      "type": "Progress",
+      "label": "fx_aurora/ms"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1041,
+      "type": "Progress",
+      "label": "fx_aurora/it"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1201,
+      "type": "Progress",
+      "label": "fx_aurora/kok"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -81,
+      "type": "Progress",
+      "label": "fx_aurora/ar"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1721,
+      "type": "Progress",
+      "label": "fx_aurora/sk"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -361,
+      "type": "Progress",
+      "label": "fx_aurora/cy"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -901,
+      "type": "Progress",
+      "label": "fx_aurora/hr"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1901,
+      "type": "Progress",
+      "label": "fx_aurora/ta"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1861,
+      "type": "Progress",
+      "label": "fx_aurora/sv-SE"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1641,
+      "type": "Progress",
+      "label": "fx_aurora/ro"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -781,
+      "type": "Progress",
+      "label": "fx_aurora/gd"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1321,
+      "type": "Progress",
+      "label": "fx_aurora/mai"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1601,
+      "type": "Progress",
+      "label": "fx_aurora/pt-PT"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -501,
+      "type": "Progress",
+      "label": "fx_aurora/eo"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -2081,
+      "type": "Progress",
+      "label": "fx_aurora/uz"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1561,
+      "type": "Progress",
+      "label": "fx_aurora/pl"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1681,
+      "type": "Progress",
+      "label": "fx_aurora/sat"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1741,
+      "type": "Progress",
+      "label": "fx_aurora/sl"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -941,
+      "type": "Progress",
+      "label": "fx_aurora/hu"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1541,
+      "type": "Progress",
+      "label": "fx_aurora/pa-IN"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -921,
+      "type": "Progress",
+      "label": "fx_aurora/hsb"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1701,
+      "type": "Progress",
+      "label": "fx_aurora/si"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -721,
+      "type": "Progress",
+      "label": "fx_aurora/fr"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -681,
+      "type": "Progress",
+      "label": "fx_aurora/ff"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1481,
+      "type": "Progress",
+      "label": "fx_aurora/nn-NO"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1461,
+      "type": "Progress",
+      "label": "fx_aurora/nl"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -661,
+      "type": "Progress",
+      "label": "fx_aurora/fa"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -2041,
+      "type": "Progress",
+      "label": "fx_aurora/uk"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -741,
+      "type": "Progress",
+      "label": "fx_aurora/fy-NL"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -281,
+      "type": "Progress",
+      "label": "fx_aurora/bs"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -581,
+      "type": "Progress",
+      "label": "fx_aurora/es-ES"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -381,
+      "type": "Progress",
+      "label": "fx_aurora/da"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1261,
+      "type": "Progress",
+      "label": "fx_aurora/lij"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1021,
+      "type": "Progress",
+      "label": "fx_aurora/is"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -821,
+      "type": "Progress",
+      "label": "fx_aurora/gu-IN"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1801,
+      "type": "Progress",
+      "label": "fx_aurora/sr"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1101,
+      "type": "Progress",
+      "label": "fx_aurora/ka"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -341,
+      "type": "Progress",
+      "label": "fx_aurora/cs"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -541,
+      "type": "Progress",
+      "label": "fx_aurora/es-AR"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -761,
+      "type": "Progress",
+      "label": "fx_aurora/ga-IE"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -601,
+      "type": "Progress",
+      "label": "fx_aurora/es-MX"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1061,
+      "type": "Progress",
+      "label": "fx_aurora/ja"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1081,
+      "type": "Progress",
+      "label": "fx_aurora/ja-JP-mac"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -241,
+      "type": "Progress",
+      "label": "fx_aurora/br"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1161,
+      "type": "Progress",
+      "label": "fx_aurora/kn"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -141,
+      "type": "Progress",
+      "label": "fx_aurora/az"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -101,
+      "type": "Progress",
+      "label": "fx_aurora/as"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1301,
+      "type": "Progress",
+      "label": "fx_aurora/lv"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1181,
+      "type": "Progress",
+      "label": "fx_aurora/ko"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -801,
+      "type": "Progress",
+      "label": "fx_aurora/gl"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1761,
+      "type": "Progress",
+      "label": "fx_aurora/son"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1521,
+      "type": "Progress",
+      "label": "fx_aurora/or"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1121,
+      "type": "Progress",
+      "label": "fx_aurora/kk"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1441,
+      "type": "Progress",
+      "label": "fx_aurora/nb-NO"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -201,
+      "type": "Progress",
+      "label": "fx_aurora/bn-BD"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -461,
+      "type": "Progress",
+      "label": "fx_aurora/en-GB"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -2061,
+      "type": "Progress",
+      "label": "fx_aurora/ur"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -441,
+      "type": "Progress",
+      "label": "fx_aurora/el"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1281,
+      "type": "Progress",
+      "label": "fx_aurora/lt"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -2181,
+      "type": "Progress",
+      "label": "fx_aurora/zh-CN"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -961,
+      "type": "Progress",
+      "label": "fx_aurora/hy-AM"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": 0,
+      "type": "Progress",
+      "label": "fx_aurora/ach"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -621,
+      "type": "Progress",
+      "label": "fx_aurora/et"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1381,
+      "type": "Progress",
+      "label": "fx_aurora/mr"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -21,
+      "type": "Progress",
+      "label": "fx_aurora/af"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -2001,
+      "type": "Progress",
+      "label": "fx_aurora/tr"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -481,
+      "type": "Progress",
+      "label": "fx_aurora/en-ZA"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -421,
+      "type": "Progress",
+      "label": "fx_aurora/dsb"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -2141,
+      "type": "Progress",
+      "label": "fx_aurora/xh"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -701,
+      "type": "Progress",
+      "label": "fx_aurora/fi"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -561,
+      "type": "Progress",
+      "label": "fx_aurora/es-CL"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -121,
+      "type": "Progress",
+      "label": "fx_aurora/ast"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1341,
+      "type": "Progress",
+      "label": "fx_aurora/mk"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -2101,
+      "type": "Progress",
+      "label": "fx_aurora/vi"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -301,
+      "type": "Progress",
+      "label": "fx_aurora/ca"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1361,
+      "type": "Progress",
+      "label": "fx_aurora/ml"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -981,
+      "type": "Progress",
+      "label": "fx_aurora/id"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -161,
+      "type": "Progress",
+      "label": "fx_aurora/be"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1941,
+      "type": "Progress",
+      "label": "fx_aurora/te"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -261,
+      "type": "Progress",
+      "label": "fx_aurora/brx"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1221,
+      "type": "Progress",
+      "label": "fx_aurora/ks"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -861,
+      "type": "Progress",
+      "label": "fx_aurora/he"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -2201,
+      "type": "Progress",
+      "label": "fx_aurora/zh-TW"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -1961,
+      "type": "Progress",
+      "label": "fx_aurora/th"
+    },
+    {
+      "background_offset_x": -900,
+      "background_offset_y": -61,
+      "type": "Progress",
+      "label": "fx_aurora/an"
+    },
+    {
+      "missing": 745,
+      "locale": "ach",
+      "unchanged": 933,
+      "result": "failure",
+      "report": 0,
+      "total": 9107,
+      "id": "fx_aurora/ach",
+      "completion": 81,
+      "changed": 7429,
+      "tree": "fx_aurora",
+      "label": "ach",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 509125
+    },
+    {
+      "missing": 2632,
+      "locale": "af",
+      "unchanged": 505,
+      "result": "failure",
+      "report": 0,
+      "total": 9282,
+      "id": "fx_aurora/af",
+      "completion": 66,
+      "changed": 6145,
+      "tree": "fx_aurora",
+      "label": "af",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510459
+    },
+    {
+      "missing": 171,
+      "locale": "an",
+      "unchanged": 687,
+      "result": "failure",
+      "report": 0,
+      "total": 9059,
+      "id": "fx_aurora/an",
+      "completion": 90,
+      "changed": 8201,
+      "tree": "fx_aurora",
+      "label": "an",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510415
+    },
+    {
+      "missing": 1642,
+      "locale": "ar",
+      "unchanged": 221,
+      "result": "failure",
+      "report": 0,
+      "total": 9193,
+      "id": "fx_aurora/ar",
+      "completion": 79,
+      "changed": 7330,
+      "tree": "fx_aurora",
+      "label": "ar",
+      "warnings": 1,
+      "type": "Build",
+      "runid": 510416
+    },
+    {
+      "missing": 1558,
+      "locale": "as",
+      "unchanged": 386,
+      "obsolete": 290,
+      "result": "failure",
+      "report": 0,
+      "total": 9161,
+      "id": "fx_aurora/as",
+      "completion": 78,
+      "changed": 7217,
+      "tree": "fx_aurora",
+      "label": "as",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508899
+    },
+    {
+      "missing": 901,
+      "locale": "ast",
+      "unchanged": 631,
+      "obsolete": 93,
+      "result": "failure",
+      "report": 0,
+      "total": 9088,
+      "id": "fx_aurora/ast",
+      "completion": 83,
+      "changed": 7556,
+      "tree": "fx_aurora",
+      "label": "ast",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508816
+    },
+    {
+      "missing": 1676,
+      "locale": "az",
+      "unchanged": 524,
+      "result": "failure",
+      "report": 0,
+      "total": 9242,
+      "id": "fx_aurora/az",
+      "completion": 76,
+      "changed": 7042,
+      "tree": "fx_aurora",
+      "label": "az",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511284
+    },
+    {
+      "missing": 2489,
+      "locale": "be",
+      "unchanged": 436,
+      "obsolete": 484,
+      "result": "failure",
+      "report": 0,
+      "total": 9280,
+      "id": "fx_aurora/be",
+      "completion": 68,
+      "changed": 6355,
+      "tree": "fx_aurora",
+      "label": "be",
+      "warnings": 1,
+      "type": "Build",
+      "runid": 508850
+    },
+    {
+      "missing": 1583,
+      "locale": "bg",
+      "unchanged": 349,
+      "result": "failure",
+      "report": 0,
+      "total": 9174,
+      "id": "fx_aurora/bg",
+      "completion": 78,
+      "changed": 7242,
+      "tree": "fx_aurora",
+      "label": "bg",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 509131
+    },
+    {
+      "missing": 1671,
+      "locale": "bn-BD",
+      "unchanged": 325,
+      "result": "failure",
+      "report": 0,
+      "total": 9236,
+      "id": "fx_aurora/bn-BD",
+      "completion": 78,
+      "changed": 7240,
+      "tree": "fx_aurora",
+      "label": "bn-BD",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511781
+    },
+    {
+      "missing": 31,
+      "locale": "bn-IN",
+      "unchanged": 1244,
+      "result": "failure",
+      "report": 0,
+      "total": 9040,
+      "id": "fx_aurora/bn-IN",
+      "completion": 85,
+      "changed": 7765,
+      "tree": "fx_aurora",
+      "label": "bn-IN",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511487
+    },
+    {
+      "missing": 0,
+      "locale": "br",
+      "unchanged": 2256,
+      "result": "success",
+      "report": 0,
+      "total": 9042,
+      "id": "fx_aurora/br",
+      "completion": 75,
+      "changed": 6786,
+      "tree": "fx_aurora",
+      "label": "br",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510948
+    },
+    {
+      "missing": 1059,
+      "locale": "brx",
+      "unchanged": 347,
+      "result": "failure",
+      "report": 0,
+      "total": 9152,
+      "id": "fx_aurora/brx",
+      "completion": 84,
+      "errors": 5,
+      "changed": 7746,
+      "tree": "fx_aurora",
+      "label": "brx",
+      "warnings": 14,
+      "type": "Build",
+      "runid": 511070
+    },
+    {
+      "missing": 238,
+      "locale": "bs",
+      "unchanged": 821,
+      "result": "failure",
+      "report": 0,
+      "total": 9067,
+      "id": "fx_aurora/bs",
+      "completion": 88,
+      "changed": 8008,
+      "tree": "fx_aurora",
+      "label": "bs",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511063
+    },
+    {
+      "missing": 281,
+      "locale": "ca",
+      "unchanged": 580,
+      "result": "failure",
+      "report": 0,
+      "total": 9071,
+      "id": "fx_aurora/ca",
+      "completion": 90,
+      "changed": 8210,
+      "tree": "fx_aurora",
+      "label": "ca",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510880
+    },
+    {
+      "missing": 0,
+      "locale": "cs",
+      "unchanged": 568,
+      "result": "success",
+      "report": 0,
+      "total": 9042,
+      "id": "fx_aurora/cs",
+      "completion": 93,
+      "changed": 8474,
+      "tree": "fx_aurora",
+      "label": "cs",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510785
+    },
+    {
+      "missing": 0,
+      "locale": "cy",
+      "unchanged": 726,
+      "result": "success",
+      "report": 0,
+      "total": 9042,
+      "id": "fx_aurora/cy",
+      "completion": 91,
+      "changed": 8316,
+      "tree": "fx_aurora",
+      "label": "cy",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511058
+    },
+    {
+      "missing": 131,
+      "locale": "da",
+      "unchanged": 915,
+      "obsolete": 51,
+      "result": "failure",
+      "report": 0,
+      "total": 9054,
+      "id": "fx_aurora/da",
+      "completion": 88,
+      "changed": 8008,
+      "tree": "fx_aurora",
+      "label": "da",
+      "warnings": 4,
+      "type": "Build",
+      "runid": 511838
+    },
+    {
+      "missing": 177,
+      "locale": "de",
+      "unchanged": 741,
+      "obsolete": 71,
+      "result": "failure",
+      "report": 0,
+      "total": 9056,
+      "id": "fx_aurora/de",
+      "completion": 89,
+      "changed": 8138,
+      "tree": "fx_aurora",
+      "label": "de",
+      "warnings": 13,
+      "type": "Build",
+      "runid": 508917
+    },
+    {
+      "missing": 0,
+      "locale": "dsb",
+      "unchanged": 569,
+      "result": "success",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/dsb",
+      "completion": 93,
+      "changed": 8474,
+      "tree": "fx_aurora",
+      "label": "dsb",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510423
+    },
+    {
+      "missing": 0,
+      "locale": "el",
+      "unchanged": 4967,
+      "obsolete": 6,
+      "result": "warnings",
+      "report": 0,
+      "total": 9038,
+      "id": "fx_aurora/el",
+      "completion": 45,
+      "changed": 4071,
+      "tree": "fx_aurora",
+      "label": "el",
+      "warnings": 9,
+      "type": "Build",
+      "runid": 508958
+    },
+    {
+      "missing": 199,
+      "locale": "en-GB",
+      "unchanged": 8381,
+      "obsolete": 74,
+      "result": "failure",
+      "report": 0,
+      "total": 9057,
+      "id": "fx_aurora/en-GB",
+      "completion": 5,
+      "changed": 477,
+      "tree": "fx_aurora",
+      "label": "en-GB",
+      "warnings": 4,
+      "type": "Build",
+      "runid": 509462
+    },
+    {
+      "missing": 1205,
+      "locale": "en-ZA",
+      "unchanged": 7775,
+      "result": "failure",
+      "report": 0,
+      "total": 9190,
+      "id": "fx_aurora/en-ZA",
+      "completion": 2,
+      "changed": 210,
+      "tree": "fx_aurora",
+      "label": "en-ZA",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511064
+    },
+    {
+      "missing": 0,
+      "locale": "eo",
+      "unchanged": 1297,
+      "result": "success",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/eo",
+      "completion": 85,
+      "changed": 7746,
+      "tree": "fx_aurora",
+      "label": "eo",
+      "warnings": 7,
+      "type": "Build",
+      "runid": 511843
+    },
+    {
+      "missing": 0,
+      "locale": "es-AR",
+      "unchanged": 1485,
+      "result": "success",
+      "report": 0,
+      "total": 9042,
+      "id": "fx_aurora/es-AR",
+      "completion": 83,
+      "changed": 7557,
+      "tree": "fx_aurora",
+      "label": "es-AR",
+      "warnings": 7,
+      "type": "Build",
+      "runid": 509050
+    },
+    {
+      "missing": 0,
+      "locale": "es-CL",
+      "unchanged": 692,
+      "result": "success",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/es-CL",
+      "completion": 92,
+      "changed": 8351,
+      "tree": "fx_aurora",
+      "label": "es-CL",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508844
+    },
+    {
+      "missing": 0,
+      "locale": "es-ES",
+      "unchanged": 709,
+      "result": "success",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/es-ES",
+      "completion": 92,
+      "changed": 8334,
+      "tree": "fx_aurora",
+      "label": "es-ES",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508931
+    },
+    {
+      "missing": 0,
+      "locale": "es-MX",
+      "unchanged": 735,
+      "result": "success",
+      "report": 0,
+      "total": 9042,
+      "id": "fx_aurora/es-MX",
+      "completion": 91,
+      "changed": 8307,
+      "tree": "fx_aurora",
+      "label": "es-MX",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510548
+    },
+    {
+      "missing": 0,
+      "locale": "et",
+      "unchanged": 3118,
+      "result": "success",
+      "report": 0,
+      "total": 9038,
+      "id": "fx_aurora/et",
+      "completion": 65,
+      "changed": 5920,
+      "tree": "fx_aurora",
+      "label": "et",
+      "warnings": 9,
+      "type": "Build",
+      "runid": 510968
+    },
+    {
+      "missing": 0,
+      "locale": "eu",
+      "unchanged": 554,
+      "result": "success",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/eu",
+      "completion": 93,
+      "changed": 8489,
+      "tree": "fx_aurora",
+      "label": "eu",
+      "warnings": 1,
+      "type": "Build",
+      "runid": 510427
+    },
+    {
+      "missing": 2009,
+      "locale": "fa",
+      "unchanged": 358,
+      "result": "failure",
+      "report": 0,
+      "total": 9211,
+      "id": "fx_aurora/fa",
+      "completion": 74,
+      "changed": 6844,
+      "tree": "fx_aurora",
+      "label": "fa",
+      "warnings": 1,
+      "type": "Build",
+      "runid": 511933
+    },
+    {
+      "missing": 2635,
+      "locale": "ff",
+      "unchanged": 645,
+      "result": "failure",
+      "report": 0,
+      "total": 9296,
+      "id": "fx_aurora/ff",
+      "completion": 64,
+      "changed": 6016,
+      "tree": "fx_aurora",
+      "label": "ff",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 509467
+    },
+    {
+      "missing": 133,
+      "locale": "fi",
+      "unchanged": 2773,
+      "obsolete": 59,
+      "result": "failure",
+      "report": 0,
+      "total": 9049,
+      "id": "fx_aurora/fi",
+      "completion": 67,
+      "changed": 6143,
+      "tree": "fx_aurora",
+      "label": "fi",
+      "warnings": 12,
+      "type": "Build",
+      "runid": 511593
+    },
+    {
+      "missing": 0,
+      "locale": "fr",
+      "unchanged": 717,
+      "result": "success",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/fr",
+      "completion": 92,
+      "changed": 8326,
+      "tree": "fx_aurora",
+      "label": "fr",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508812
+    },
+    {
+      "missing": 199,
+      "locale": "fy-NL",
+      "unchanged": 817,
+      "obsolete": 74,
+      "result": "failure",
+      "report": 0,
+      "total": 9057,
+      "id": "fx_aurora/fy-NL",
+      "completion": 88,
+      "changed": 8041,
+      "tree": "fx_aurora",
+      "label": "fy-NL",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511467
+    },
+    {
+      "missing": 2,
+      "locale": "ga-IE",
+      "unchanged": 459,
+      "result": "failure",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/ga-IE",
+      "completion": 94,
+      "changed": 8582,
+      "tree": "fx_aurora",
+      "label": "ga-IE",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510463
+    },
+    {
+      "missing": 0,
+      "locale": "gd",
+      "unchanged": 1871,
+      "result": "success",
+      "report": 0,
+      "total": 9042,
+      "id": "fx_aurora/gd",
+      "completion": 79,
+      "changed": 7171,
+      "tree": "fx_aurora",
+      "label": "gd",
+      "warnings": 1,
+      "type": "Build",
+      "runid": 510429
+    },
+    {
+      "missing": 1418,
+      "locale": "gl",
+      "unchanged": 560,
+      "obsolete": 310,
+      "result": "failure",
+      "report": 0,
+      "total": 9138,
+      "id": "fx_aurora/gl",
+      "completion": 78,
+      "changed": 7160,
+      "tree": "fx_aurora",
+      "label": "gl",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508838
+    },
+    {
+      "missing": 2239,
+      "locale": "gu-IN",
+      "unchanged": 489,
+      "obsolete": 374,
+      "result": "failure",
+      "report": 0,
+      "total": 9240,
+      "id": "fx_aurora/gu-IN",
+      "completion": 70,
+      "changed": 6512,
+      "tree": "fx_aurora",
+      "label": "gu-IN",
+      "warnings": 2,
+      "type": "Build",
+      "runid": 508859
+    },
+    {
+      "missing": 1071,
+      "locale": "he",
+      "unchanged": 1461,
+      "obsolete": 474,
+      "result": "failure",
+      "report": 0,
+      "total": 9151,
+      "id": "fx_aurora/he",
+      "completion": 72,
+      "changed": 6619,
+      "tree": "fx_aurora",
+      "label": "he",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508854
+    },
+    {
+      "missing": 590,
+      "locale": "hi-IN",
+      "unchanged": 986,
+      "result": "failure",
+      "report": 0,
+      "total": 9083,
+      "id": "fx_aurora/hi-IN",
+      "completion": 82,
+      "errors": 1,
+      "changed": 7507,
+      "tree": "fx_aurora",
+      "label": "hi-IN",
+      "warnings": 1,
+      "type": "Build",
+      "runid": 511848
+    },
+    {
+      "missing": 0,
+      "locale": "hr",
+      "unchanged": 595,
+      "result": "success",
+      "report": 0,
+      "total": 9038,
+      "id": "fx_aurora/hr",
+      "completion": 93,
+      "changed": 8443,
+      "tree": "fx_aurora",
+      "label": "hr",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510946
+    },
+    {
+      "missing": 0,
+      "locale": "hsb",
+      "unchanged": 568,
+      "result": "success",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/hsb",
+      "completion": 93,
+      "changed": 8475,
+      "tree": "fx_aurora",
+      "label": "hsb",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510434
+    },
+    {
+      "missing": 189,
+      "locale": "hu",
+      "unchanged": 553,
+      "result": "failure",
+      "report": 0,
+      "total": 9056,
+      "id": "fx_aurora/hu",
+      "completion": 91,
+      "changed": 8314,
+      "tree": "fx_aurora",
+      "label": "hu",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511517
+    },
+    {
+      "missing": 763,
+      "locale": "hy-AM",
+      "unchanged": 344,
+      "result": "failure",
+      "report": 0,
+      "total": 9117,
+      "id": "fx_aurora/hy-AM",
+      "completion": 87,
+      "changed": 8010,
+      "tree": "fx_aurora",
+      "label": "hy-AM",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511052
+    },
+    {
+      "missing": 0,
+      "locale": "id",
+      "unchanged": 790,
+      "result": "success",
+      "report": 0,
+      "total": 9042,
+      "id": "fx_aurora/id",
+      "completion": 91,
+      "changed": 8252,
+      "tree": "fx_aurora",
+      "label": "id",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510954
+    },
+    {
+      "missing": 2,
+      "locale": "is",
+      "unchanged": 2227,
+      "result": "failure",
+      "report": 0,
+      "total": 9044,
+      "id": "fx_aurora/is",
+      "completion": 75,
+      "changed": 6815,
+      "tree": "fx_aurora",
+      "label": "is",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510489
+    },
+    {
+      "missing": 0,
+      "locale": "it",
+      "unchanged": 732,
+      "result": "success",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/it",
+      "completion": 91,
+      "changed": 8311,
+      "tree": "fx_aurora",
+      "label": "it",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508829
+    },
+    {
+      "missing": 199,
+      "locale": "ja",
+      "unchanged": 903,
+      "obsolete": 74,
+      "result": "failure",
+      "report": 0,
+      "total": 9057,
+      "id": "fx_aurora/ja",
+      "completion": 87,
+      "changed": 7955,
+      "tree": "fx_aurora",
+      "label": "ja",
+      "warnings": 8,
+      "type": "Build",
+      "runid": 509025
+    },
+    {
+      "missing": 199,
+      "locale": "ja-JP-mac",
+      "unchanged": 902,
+      "obsolete": 74,
+      "result": "failure",
+      "report": 0,
+      "total": 9057,
+      "id": "fx_aurora/ja-JP-mac",
+      "completion": 87,
+      "changed": 7956,
+      "tree": "fx_aurora",
+      "label": "ja-JP-mac",
+      "warnings": 8,
+      "type": "Build",
+      "runid": 509024
+    },
+    {
+      "missing": 5871,
+      "locale": "ka",
+      "unchanged": 359,
+      "result": "failure",
+      "report": 0,
+      "total": 9746,
+      "id": "fx_aurora/ka",
+      "completion": 36,
+      "errors": 1,
+      "changed": 3516,
+      "tree": "fx_aurora",
+      "label": "ka",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511080
+    },
+    {
+      "missing": 138,
+      "locale": "kk",
+      "unchanged": 367,
+      "result": "failure",
+      "report": 0,
+      "total": 9050,
+      "id": "fx_aurora/kk",
+      "completion": 94,
+      "changed": 8545,
+      "tree": "fx_aurora",
+      "label": "kk",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511576
+    },
+    {
+      "missing": 374,
+      "locale": "km",
+      "unchanged": 386,
+      "result": "failure",
+      "report": 0,
+      "total": 9069,
+      "id": "fx_aurora/km",
+      "completion": 91,
+      "changed": 8309,
+      "tree": "fx_aurora",
+      "label": "km",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511943
+    },
+    {
+      "missing": 168,
+      "locale": "kn",
+      "unchanged": 461,
+      "result": "failure",
+      "report": 0,
+      "total": 9059,
+      "id": "fx_aurora/kn",
+      "completion": 93,
+      "changed": 8430,
+      "tree": "fx_aurora",
+      "label": "kn",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510703
+    },
+    {
+      "missing": 199,
+      "locale": "ko",
+      "unchanged": 377,
+      "obsolete": 74,
+      "result": "failure",
+      "report": 0,
+      "total": 9051,
+      "id": "fx_aurora/ko",
+      "completion": 93,
+      "changed": 8475,
+      "tree": "fx_aurora",
+      "label": "ko",
+      "warnings": 40,
+      "type": "Build",
+      "runid": 508806
+    },
+    {
+      "missing": 958,
+      "locale": "kok",
+      "unchanged": 318,
+      "result": "failure",
+      "report": 0,
+      "total": 9167,
+      "id": "fx_aurora/kok",
+      "completion": 86,
+      "errors": 46,
+      "changed": 7891,
+      "tree": "fx_aurora",
+      "label": "kok",
+      "warnings": 5,
+      "type": "Build",
+      "runid": 511073
+    },
+    {
+      "missing": 722,
+      "locale": "ks",
+      "unchanged": 280,
+      "result": "failure",
+      "report": 0,
+      "total": 9144,
+      "id": "fx_aurora/ks",
+      "completion": 89,
+      "errors": 24,
+      "changed": 8142,
+      "tree": "fx_aurora",
+      "label": "ks",
+      "warnings": 28,
+      "type": "Build",
+      "runid": 511072
+    },
+    {
+      "missing": 2706,
+      "locale": "lij",
+      "unchanged": 403,
+      "obsolete": 577,
+      "result": "failure",
+      "report": 0,
+      "total": 9306,
+      "id": "fx_aurora/lij",
+      "completion": 66,
+      "changed": 6197,
+      "tree": "fx_aurora",
+      "label": "lij",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508853
+    },
+    {
+      "missing": 152,
+      "locale": "lt",
+      "unchanged": 352,
+      "result": "failure",
+      "report": 0,
+      "total": 9056,
+      "id": "fx_aurora/lt",
+      "completion": 94,
+      "changed": 8552,
+      "tree": "fx_aurora",
+      "label": "lt",
+      "warnings": 1,
+      "type": "Build",
+      "runid": 511834
+    },
+    {
+      "missing": 0,
+      "locale": "lv",
+      "unchanged": 757,
+      "result": "success",
+      "report": 0,
+      "total": 9038,
+      "id": "fx_aurora/lv",
+      "completion": 91,
+      "changed": 8281,
+      "tree": "fx_aurora",
+      "label": "lv",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511782
+    },
+    {
+      "missing": 1039,
+      "locale": "mai",
+      "unchanged": 942,
+      "obsolete": 141,
+      "result": "failure",
+      "report": 0,
+      "total": 9100,
+      "id": "fx_aurora/mai",
+      "completion": 78,
+      "changed": 7119,
+      "tree": "fx_aurora",
+      "label": "mai",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508964
+    },
+    {
+      "missing": 3872,
+      "locale": "mk",
+      "unchanged": 991,
+      "obsolete": 933,
+      "result": "failure",
+      "report": 0,
+      "total": 9473,
+      "id": "fx_aurora/mk",
+      "completion": 48,
+      "changed": 4610,
+      "tree": "fx_aurora",
+      "label": "mk",
+      "warnings": 1,
+      "type": "Build",
+      "runid": 508962
+    },
+    {
+      "missing": 1562,
+      "locale": "ml",
+      "unchanged": 313,
+      "result": "failure",
+      "report": 0,
+      "total": 9231,
+      "id": "fx_aurora/ml",
+      "completion": 79,
+      "changed": 7356,
+      "tree": "fx_aurora",
+      "label": "ml",
+      "warnings": 2,
+      "type": "Build",
+      "runid": 510940
+    },
+    {
+      "missing": 1509,
+      "locale": "mr",
+      "unchanged": 552,
+      "result": "failure",
+      "report": 0,
+      "total": 9203,
+      "id": "fx_aurora/mr",
+      "completion": 77,
+      "changed": 7142,
+      "tree": "fx_aurora",
+      "label": "mr",
+      "warnings": 2,
+      "type": "Build",
+      "runid": 509187
+    },
+    {
+      "missing": 2057,
+      "locale": "ms",
+      "unchanged": 867,
+      "obsolete": 69,
+      "result": "failure",
+      "report": 0,
+      "total": 9211,
+      "id": "fx_aurora/ms",
+      "completion": 68,
+      "changed": 6287,
+      "tree": "fx_aurora",
+      "label": "ms",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508851
+    },
+    {
+      "missing": 110,
+      "locale": "nb-NO",
+      "unchanged": 2728,
+      "obsolete": 62,
+      "result": "failure",
+      "report": 0,
+      "total": 9050,
+      "id": "fx_aurora/nb-NO",
+      "completion": 68,
+      "changed": 6212,
+      "tree": "fx_aurora",
+      "label": "nb-NO",
+      "warnings": 5,
+      "type": "Build",
+      "runid": 511716
+    },
+    {
+      "missing": 0,
+      "locale": "nl",
+      "unchanged": 852,
+      "result": "success",
+      "report": 0,
+      "total": 9042,
+      "id": "fx_aurora/nl",
+      "completion": 90,
+      "changed": 8190,
+      "tree": "fx_aurora",
+      "label": "nl",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510731
+    },
+    {
+      "missing": 124,
+      "locale": "nn-NO",
+      "unchanged": 2606,
+      "obsolete": 49,
+      "result": "failure",
+      "report": 0,
+      "total": 9046,
+      "id": "fx_aurora/nn-NO",
+      "completion": 69,
+      "changed": 6316,
+      "tree": "fx_aurora",
+      "label": "nn-NO",
+      "warnings": 5,
+      "type": "Build",
+      "runid": 511699
+    },
+    {
+      "missing": 1554,
+      "locale": "or",
+      "unchanged": 868,
+      "obsolete": 350,
+      "result": "failure",
+      "report": 0,
+      "total": 9163,
+      "id": "fx_aurora/or",
+      "completion": 73,
+      "changed": 6741,
+      "tree": "fx_aurora",
+      "label": "or",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508928
+    },
+    {
+      "missing": 172,
+      "locale": "pa-IN",
+      "unchanged": 2144,
+      "obsolete": 74,
+      "result": "failure",
+      "report": 0,
+      "total": 9057,
+      "id": "fx_aurora/pa-IN",
+      "completion": 74,
+      "changed": 6741,
+      "tree": "fx_aurora",
+      "label": "pa-IN",
+      "warnings": 4,
+      "type": "Build",
+      "runid": 511766
+    },
+    {
+      "missing": 0,
+      "locale": "pl",
+      "unchanged": 557,
+      "obsolete": 6,
+      "result": "warnings",
+      "report": 0,
+      "total": 9041,
+      "id": "fx_aurora/pl",
+      "completion": 93,
+      "changed": 8484,
+      "tree": "fx_aurora",
+      "label": "pl",
+      "warnings": 8,
+      "type": "Build",
+      "runid": 508875
+    },
+    {
+      "missing": 0,
+      "locale": "pt-BR",
+      "unchanged": 647,
+      "result": "success",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/pt-BR",
+      "completion": 92,
+      "changed": 8396,
+      "tree": "fx_aurora",
+      "label": "pt-BR",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510440
+    },
+    {
+      "missing": 0,
+      "locale": "pt-PT",
+      "unchanged": 613,
+      "result": "success",
+      "report": 0,
+      "total": 9037,
+      "id": "fx_aurora/pt-PT",
+      "completion": 93,
+      "changed": 8424,
+      "tree": "fx_aurora",
+      "label": "pt-PT",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511024
+    },
+    {
+      "missing": 385,
+      "locale": "rm",
+      "unchanged": 2397,
+      "obsolete": 91,
+      "result": "failure",
+      "report": 0,
+      "total": 9071,
+      "id": "fx_aurora/rm",
+      "completion": 69,
+      "changed": 6289,
+      "tree": "fx_aurora",
+      "label": "rm",
+      "warnings": 7,
+      "type": "Build",
+      "runid": 508826
+    },
+    {
+      "missing": 281,
+      "locale": "ro",
+      "unchanged": 948,
+      "result": "failure",
+      "report": 0,
+      "total": 9060,
+      "id": "fx_aurora/ro",
+      "completion": 86,
+      "changed": 7831,
+      "tree": "fx_aurora",
+      "label": "ro",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510448
+    },
+    {
+      "missing": 0,
+      "locale": "ru",
+      "unchanged": 363,
+      "result": "success",
+      "report": 0,
+      "total": 9042,
+      "id": "fx_aurora/ru",
+      "completion": 95,
+      "changed": 8679,
+      "tree": "fx_aurora",
+      "label": "ru",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 509046
+    },
+    {
+      "missing": 1723,
+      "locale": "sat",
+      "unchanged": 592,
+      "obsolete": 420,
+      "result": "failure",
+      "report": 0,
+      "total": 9176,
+      "id": "fx_aurora/sat",
+      "completion": 74,
+      "errors": 31,
+      "changed": 6861,
+      "tree": "fx_aurora",
+      "label": "sat",
+      "warnings": 15,
+      "type": "Build",
+      "runid": 508918
+    },
+    {
+      "missing": 1304,
+      "locale": "si",
+      "unchanged": 1209,
+      "result": "failure",
+      "report": 0,
+      "total": 9178,
+      "id": "fx_aurora/si",
+      "completion": 72,
+      "errors": 44,
+      "changed": 6665,
+      "tree": "fx_aurora",
+      "label": "si",
+      "warnings": 7,
+      "type": "Build",
+      "runid": 509160
+    },
+    {
+      "missing": 0,
+      "locale": "sk",
+      "unchanged": 515,
+      "result": "success",
+      "report": 0,
+      "total": 9042,
+      "id": "fx_aurora/sk",
+      "completion": 94,
+      "changed": 8527,
+      "tree": "fx_aurora",
+      "label": "sk",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508981
+    },
+    {
+      "missing": 199,
+      "locale": "sl",
+      "unchanged": 499,
+      "result": "failure",
+      "report": 0,
+      "total": 9051,
+      "id": "fx_aurora/sl",
+      "completion": 92,
+      "changed": 8353,
+      "tree": "fx_aurora",
+      "label": "sl",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511994
+    },
+    {
+      "missing": 335,
+      "locale": "son",
+      "unchanged": 443,
+      "result": "failure",
+      "report": 0,
+      "total": 9058,
+      "id": "fx_aurora/son",
+      "completion": 91,
+      "changed": 8280,
+      "tree": "fx_aurora",
+      "label": "son",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 509181
+    },
+    {
+      "missing": 337,
+      "locale": "sq",
+      "unchanged": 574,
+      "obsolete": 79,
+      "result": "failure",
+      "report": 0,
+      "total": 9063,
+      "id": "fx_aurora/sq",
+      "completion": 89,
+      "changed": 8152,
+      "tree": "fx_aurora",
+      "label": "sq",
+      "warnings": 4,
+      "type": "Build",
+      "runid": 508874
+    },
+    {
+      "missing": 0,
+      "locale": "sr",
+      "unchanged": 2161,
+      "result": "success",
+      "report": 0,
+      "total": 9041,
+      "id": "fx_aurora/sr",
+      "completion": 76,
+      "changed": 6880,
+      "tree": "fx_aurora",
+      "label": "sr",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 509036
+    },
+    {
+      "missing": 0,
+      "locale": "sv-SE",
+      "unchanged": 761,
+      "result": "success",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/sv-SE",
+      "completion": 91,
+      "changed": 8282,
+      "tree": "fx_aurora",
+      "label": "sv-SE",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 509028
+    },
+    {
+      "missing": 829,
+      "locale": "ta",
+      "unchanged": 368,
+      "result": "failure",
+      "report": 0,
+      "total": 9121,
+      "id": "fx_aurora/ta",
+      "completion": 86,
+      "changed": 7924,
+      "tree": "fx_aurora",
+      "label": "ta",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510472
+    },
+    {
+      "missing": 771,
+      "locale": "te",
+      "unchanged": 417,
+      "result": "failure",
+      "report": 0,
+      "total": 9117,
+      "id": "fx_aurora/te",
+      "completion": 86,
+      "changed": 7929,
+      "tree": "fx_aurora",
+      "label": "te",
+      "warnings": 2,
+      "type": "Build",
+      "runid": 509163
+    },
+    {
+      "missing": 1371,
+      "locale": "th",
+      "unchanged": 1012,
+      "result": "failure",
+      "report": 0,
+      "total": 9167,
+      "id": "fx_aurora/th",
+      "completion": 74,
+      "changed": 6784,
+      "tree": "fx_aurora",
+      "label": "th",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510451
+    },
+    {
+      "missing": 14,
+      "locale": "tr",
+      "unchanged": 469,
+      "result": "failure",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/tr",
+      "completion": 94,
+      "changed": 8560,
+      "tree": "fx_aurora",
+      "label": "tr",
+      "warnings": 1,
+      "type": "Build",
+      "runid": 511049
+    },
+    {
+      "missing": 0,
+      "locale": "uk",
+      "unchanged": 560,
+      "result": "success",
+      "report": 0,
+      "total": 9038,
+      "id": "fx_aurora/uk",
+      "completion": 93,
+      "changed": 8478,
+      "tree": "fx_aurora",
+      "label": "uk",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510180
+    },
+    {
+      "missing": 3174,
+      "locale": "ur",
+      "unchanged": 620,
+      "obsolete": 501,
+      "result": "failure",
+      "report": 0,
+      "total": 9332,
+      "id": "fx_aurora/ur",
+      "completion": 59,
+      "errors": 4,
+      "changed": 5538,
+      "tree": "fx_aurora",
+      "label": "ur",
+      "warnings": 10,
+      "type": "Build",
+      "runid": 508840
+    },
+    {
+      "missing": 471,
+      "locale": "uz",
+      "unchanged": 633,
+      "result": "failure",
+      "report": 0,
+      "total": 9082,
+      "id": "fx_aurora/uz",
+      "completion": 87,
+      "changed": 7978,
+      "tree": "fx_aurora",
+      "label": "uz",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 510453
+    },
+    {
+      "missing": 1986,
+      "locale": "vi",
+      "unchanged": 641,
+      "result": "failure",
+      "report": 0,
+      "total": 9257,
+      "id": "fx_aurora/vi",
+      "completion": 71,
+      "changed": 6630,
+      "tree": "fx_aurora",
+      "label": "vi",
+      "warnings": 2,
+      "type": "Build",
+      "runid": 511942
+    },
+    {
+      "missing": 2367,
+      "locale": "xh",
+      "unchanged": 299,
+      "obsolete": 62,
+      "result": "failure",
+      "report": 0,
+      "total": 9275,
+      "id": "fx_aurora/xh",
+      "completion": 71,
+      "changed": 6609,
+      "tree": "fx_aurora",
+      "label": "xh",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 508972
+    },
+    {
+      "missing": 0,
+      "locale": "zh-CN",
+      "unchanged": 382,
+      "obsolete": 1,
+      "result": "warnings",
+      "report": 0,
+      "total": 9043,
+      "id": "fx_aurora/zh-CN",
+      "completion": 95,
+      "changed": 8661,
+      "tree": "fx_aurora",
+      "label": "zh-CN",
+      "warnings": 0,
+      "type": "Build",
+      "runid": 511492
+    },
+    {
+      "missing": 0,
+      "locale": "zh-TW",
+      "unchanged": 441,
+      "result": "success",
+      "report": 0,
+      "total": 9042,
+      "id": "fx_aurora/zh-TW",
+      "completion": 95,
+      "changed": 8601,
+      "tree": "fx_aurora",
+      "label": "zh-TW",
+      "warnings": 3,
+      "type": "Build",
+      "runid": 508834
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/ach"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/af"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/an"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/ar"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx36"
+      ],
+      "label": "fx_aurora/as"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx39"
+      ],
+      "label": "fx_aurora/ast"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/az"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx34"
+      ],
+      "label": "fx_aurora/be"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/bg"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx28"
+      ],
+      "label": "fx_aurora/bn-BD"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx39"
+      ],
+      "label": "fx_aurora/bn-IN"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/br"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx25"
+      ],
+      "label": "fx_aurora/bs"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/ca"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/cs"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/cy"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/da"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/de"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/dsb"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx25"
+      ],
+      "label": "fx_aurora/el"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/en-GB"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx34"
+      ],
+      "label": "fx_aurora/en-ZA"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/eo"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/es-AR"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/es-CL"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/es-ES"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/es-MX"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/et"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/eu"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx39"
+      ],
+      "label": "fx_aurora/fa"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx38"
+      ],
+      "label": "fx_aurora/ff"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/fi"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/fr"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/fy-NL"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/ga-IE"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/gd"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx36"
+      ],
+      "label": "fx_aurora/gl"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx33"
+      ],
+      "label": "fx_aurora/gu-IN"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/he"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/hi-IN"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/hr"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/hsb"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/hu"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/hy-AM"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/id"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/is"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/it"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/ja"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/ja-JP-mac"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/kk"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx38"
+      ],
+      "label": "fx_aurora/km"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/kn"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/ko"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx30"
+      ],
+      "label": "fx_aurora/lij"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/lt"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/lv"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx38"
+      ],
+      "label": "fx_aurora/mai"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx29"
+      ],
+      "label": "fx_aurora/mk"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx33"
+      ],
+      "label": "fx_aurora/ml"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/mr"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx38"
+      ],
+      "label": "fx_aurora/ms"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/nb-NO"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/nl"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/nn-NO"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx35"
+      ],
+      "label": "fx_aurora/or"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/pa-IN"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/pl"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/pt-BR"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/pt-PT"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx39"
+      ],
+      "label": "fx_aurora/rm"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/ro"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/ru"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx38"
+      ],
+      "label": "fx_aurora/si"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/sk"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/sl"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/son"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/sq"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/sr"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/sv-SE"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/ta"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/te"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/th"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/tr"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/uk"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/uz"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx40"
+      ],
+      "label": "fx_aurora/vi"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "fx37"
+      ],
+      "label": "fx_aurora/xh"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/zh-CN"
+    },
+    {
+      "tree": "fx_aurora",
+      "type": "SignOff",
+      "signoff": [
+        "accepted"
+      ],
+      "label": "fx_aurora/zh-TW"
+    },
+    {
+      "type": "AppVer4Tree",
+      "appversion": "fx41",
+      "label": "fx_aurora"
+    }
+  ],
+  "properties": {
+    "completion": {
+      "valueType": "number"
+    },
+    "errors": {
+      "valueType": "number"
+    },
+    "starttime": {
+      "valueType": "date"
+    },
+    "warnings": {
+      "valueType": "number"
+    },
+    "missing": {
+      "valueType": "number"
+    },
+    "report": {
+      "valueType": "number"
+    },
+    "unchanged": {
+      "valueType": "number"
+    },
+    "changed": {
+      "valueType": "number"
+    },
+    "endtime": {
+      "valueType": "date"
+    },
+    "obsolete": {
+      "valueType": "number"
+    }
+  },
+  "types": {
+    "Priority": {
+      "pluralLabel": "Priorities"
+    },
+    "Build": {
+      "pluralLabel": "Builds"
+    }
+  }
+}
